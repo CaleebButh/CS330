@@ -16,5 +16,5 @@ program can output something new, testing as I go.
 How can computer science help me in reaching my goals?
 
 Computer science can help me accomplish my goals by 
-bringing me a career change which I desperately need 
-after working at walmart for 6 years and living paycheck to paycheck. 
+bringing me a career change which I've never been more ready
+for. 
